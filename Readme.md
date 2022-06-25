@@ -39,3 +39,8 @@ insertar un Dron con un tipo de medicamento api/DronCargado/agregar
 "MedicamentosID":"Azitromicina"
 "Cantidad" : 50
 }
+
+# Ejecucion
+Abra la carpeta bin/netcore3 y abra DroneApi.exe
+Utilice la direccion que brinda la consola y copiela en el Chrome
+Ejecute el Postman para realizar los pedidos
